@@ -4,3 +4,4 @@ make this a library for visualizing different image processing effects
 - fate:zero irisviel detecting another Master (blue with scanlines + scaling) (Season 1 Ep.7 at 11:44 and Ep.8 at 0:17)
 - Acerola's videos like [this](https://www.youtube.com/watch?v=5EuYKEvugLU) 
 - effects from [Photomosh](https://photomosh.com/)
+- allow capturing the screen and applying effects to it (allow single and dual monitors)
